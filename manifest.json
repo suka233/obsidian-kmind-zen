@@ -3,7 +3,7 @@
   "name": "KMind Zen",
   "version": "0.1.0",
   "minAppVersion": "1.6.0",
-  "description": "KMind Zen mindmap editor for Obsidian.",
+  "description": "Professional mind mapping software with one map editable across SiYuan Note, the web app, and other KMind Zen hosts.",
   "author": "KMind",
   "authorUrl": "https://kmind.app",
   "isDesktopOnly": true
