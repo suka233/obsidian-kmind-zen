@@ -2,6 +2,8 @@
 
 ## 0.1.0 - 2026-03-24
 
-- Establish the stage release rehearsal baseline for the Obsidian plugin.
-- Add a release-only publishing flow for `manifest.json`, `versions.json`, `README.md`, `CHANGELOG.md`, Git tag, and GitHub Release assets.
-- Align the plugin production build with `https://stage.kmind.app` and the stage signing public key flow.
+- Prepare the initial Obsidian plugin release for community review.
+- Add a release-only publishing flow for `manifest.json`, `versions.json`, `README.md`, `CHANGELOG.md`, `LICENSE`, Git tag, and GitHub Release assets.
+- Align the plugin production build with `https://kmind.app` and the production signing public key flow.
+- Add marketplace review disclosures for licensing, network use, local storage, and vault file access.
+- Mark the current submission as desktop-only.

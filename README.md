@@ -16,6 +16,16 @@ If you want to use KMind Zen in Obsidian right now, the recommended approach is 
 - Add the KMind Zen for Obsidian repository in BRAT: `https://github.com/suka233/obsidian-kmind-zen.git`
 - Follow BRAT's prompts to install and enable the plugin.
 
+## Licensing and disclosures
+
+- KMind Zen for Obsidian is a closed-source commercial plugin. The public repository is used for release metadata and installable assets. Source access for marketplace review can be granted separately to authorized reviewers through a private audit repository.
+- Most plugin features are free to use, with unlimited mind maps and no node-count limit. Only some advanced features require a commercial license. A free trial is available, and paid activation uses an email address plus a license key. Global users can contact `kmind_app@outlook.com` for purchase, upgrade, or activation support.
+- The plugin connects to KMind services at `https://kmind.app` for trial claims, license activation and refresh, pricing, and purchase sessions. In the current code path, those requests send licensing-related fields such as email address, license key, and selected offer or coupon.
+- Map files remain local `.kmindz` files in your vault. The license flow does not upload mind map document contents.
+- The plugin stores local license state in Obsidian's local browser storage, including a device keypair, signed lease, and refresh token.
+- The plugin reads and writes `.kmindz` maps and related asset or history files inside the current Obsidian vault.
+- No dedicated telemetry or analytics pipeline is bundled.
+
 ## Features
 
 - Every KMind Zen host runs on the same core. A single KMind Zen source file can move smoothly between SiYuan, Obsidian, the web app, and the upcoming desktop app. You can also use the KMind Zen Skill with AI tools to turn source material into editable mind maps offline. One practical workflow is converting lecture or meeting recordings into KMind Zen documents that you can refine and archive later.
@@ -46,4 +56,4 @@ If you want to use KMind Zen in Obsidian right now, the recommended approach is 
 
 ## Limitations
 
-- Mobile support has not been fully tested yet. On mobile devices, a Chromium-based browser is currently recommended for the best experience.
+- The current marketplace submission targets desktop only. Mobile is not part of the supported surface for this release.

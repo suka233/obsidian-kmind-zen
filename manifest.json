@@ -6,6 +6,5 @@
   "description": "KMind Zen mindmap editor for Obsidian.",
   "author": "KMind",
   "authorUrl": "https://kmind.app",
-  "isDesktopOnly": false
+  "isDesktopOnly": true
 }
-
