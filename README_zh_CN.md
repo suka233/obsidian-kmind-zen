@@ -6,6 +6,11 @@ KMind Zen 是全新的专业导图工具，官网 https://kmind.app
 
 KMind Zen完全从0开始，重新设计了内核，UI，交互等，以期望获得更高的自主性和拓展性，当前KMind Zen提供思源插件，Obsidian插件，网页应用，[KMind Zen OpenClaw Skill](https://clawhub.ai/suka233/kmind-markdown-to-mindmap)(Skill是纯离线且通用的，你可以在任意支持使用Skill的地方调用，可以获得直接从文本转为导图图片的能力)，独立的桌面端也即将到来...
 
+## 0.2.0 更新（2026-04-29）
+
+- 将共享 KMind 内核升级到 0.2.0。
+- 修复极端情况下的化学方程式渲染问题，包括 mhchem 条件标签中包含中文时的显示异常。
+
 ## 安装说明
 
 由于当前还在等待 Obsidian 社区市场的审核，KMind Zen 暂时还没有在社区集市上架。
