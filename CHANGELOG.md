@@ -1,5 +1,21 @@
 # KMind Zen Obsidian Changelog
 
+## 0.4.0 - 2026-05-03
+
+### English
+
+- Redesign the Project Popover with visual layout cards, light/dark theme previews, rainbow edge settings, and background color presets plus custom color input.
+- Redesign the root-node theme switching popover with visual layout, theme, and edge route previews, making layout and line style changes easier to compare before applying.
+- Localize layout, theme, and edge route display names across the Obsidian plugin UI.
+- Upgrade the shared KMind core to 0.3.0.
+
+### 中文
+
+- 重构 Project Popover，改为可视化布局卡片、明暗主题预览、彩虹连线设置、背景色预设和自定义颜色输入。
+- 重构根节点“切换主题”Popover，用可视化卡片展示布局、主题和连线路由，方便用户在应用前比较效果。
+- 为 Obsidian 插件界面补齐布局、主题和连线路由的本地化展示名。
+- 将共享 KMind 内核升级到 0.3.0。
+
 ## 0.3.1 - 2026-05-02
 
 ### English

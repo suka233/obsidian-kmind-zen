@@ -6,11 +6,12 @@ KMind Zen is a next-generation professional mind mapping tool. Website: https://
 
 KMind Zen was rebuilt from the ground up, with a redesigned core, interface, and interaction model for greater flexibility and long-term extensibility. Today, KMind Zen is available as a SiYuan plugin, an Obsidian plugin, a web app, and an OpenClaw Skill. A standalone desktop app is also on the way.
 
-## What's new in 0.3.1 (2026-05-02)
+## What's new in 0.4.0 (2026-05-03)
 
-- Fixed node context menu behavior after multi-selecting nodes. Right-clicking an already selected node now keeps the full multi-selection highlighted.
-- Node context menu actions now use the node that was right-clicked as their explicit target, including copy, todo, submap, expand, and collapse actions.
-- Delete from the node context menu still follows the existing multi-selection delete behavior.
+- The Project Popover now uses visual layout and theme cards, including light/dark theme previews, rainbow edge settings, and background color presets plus custom color input.
+- The root-node theme switching popover now shows visual layout, theme, and edge route previews before applying changes.
+- Layout, theme, and edge route names are localized in the Obsidian plugin UI.
+- KMind Zen now uses the shared KMind core 0.3.0.
 
 ## Installation
 
@@ -37,6 +38,7 @@ If you want to use KMind Zen in Obsidian right now, the recommended approach is 
 - Every KMind Zen host runs on the same core. A single KMind Zen source file can move smoothly between SiYuan, Obsidian, the web app, and the upcoming desktop app. You can also use the KMind Zen Skill with AI tools to turn source material into editable mind maps offline. One practical workflow is converting lecture or meeting recordings into KMind Zen documents that you can refine and archive later.
 - A purpose-built `.kmindz.svg` source format. It contains the full editable source document while still being a valid SVG image, so you can preview the map without opening it first.
 - Smart themes with both light and dark variants across the official theme set, switching automatically with no manual theme toggle required.
+- Visual project settings for choosing layouts, themes, edge styles, rainbow edges, and background colors with less guesswork.
 - Unlimited summary nesting, so summaries can contain their own summaries at any depth.
 - Flexible cloze support for both nodes and notes, designed for memorization and review.
 - An improved formula editor that can be opened quickly from the slash menu.
