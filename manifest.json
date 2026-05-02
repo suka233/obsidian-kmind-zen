@@ -1,7 +1,7 @@
 {
   "id": "kmind-zen",
   "name": "KMind Zen",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "minAppVersion": "1.6.0",
   "description": "Professional mind mapping software with one map editable across SiYuan Note, the web app, and other KMind Zen hosts.",
   "author": "KMind",

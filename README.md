@@ -6,10 +6,11 @@ KMind Zen is a next-generation professional mind mapping tool. Website: https://
 
 KMind Zen was rebuilt from the ground up, with a redesigned core, interface, and interaction model for greater flexibility and long-term extensibility. Today, KMind Zen is available as a SiYuan plugin, an Obsidian plugin, a web app, and an OpenClaw Skill. A standalone desktop app is also on the way.
 
-## What's new in 0.2.0 (2026-04-29)
+## What's new in 0.3.1 (2026-05-02)
 
-- Upgraded the shared KMind core to 0.2.0.
-- Fixed chemical equation rendering in edge cases, including mhchem labels that contain CJK text.
+- Fixed node context menu behavior after multi-selecting nodes. Right-clicking an already selected node now keeps the full multi-selection highlighted.
+- Node context menu actions now use the node that was right-clicked as their explicit target, including copy, todo, submap, expand, and collapse actions.
+- Delete from the node context menu still follows the existing multi-selection delete behavior.
 
 ## Installation
 
