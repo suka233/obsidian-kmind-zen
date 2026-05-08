@@ -1,5 +1,21 @@
 # KMind Zen Obsidian Changelog
 
+## 0.5.0 - 2026-05-09
+
+### English
+
+- Add shortcut customization in the Obsidian plugin settings, scoped to KMind Zen views.
+- Add a rich-text shortcut reference for node text, notes, and comments.
+- Show the current shortcut next to supported context-menu actions, including custom bindings.
+- Add more default shortcuts for notes, comments, zoom reset, submaps, and common copy/paste actions.
+
+### 中文
+
+- 新增 Obsidian 插件快捷键配置，并且只作用于 KMind Zen 视图。
+- 快捷键面板新增富文本快捷键提示，覆盖节点正文、备注和批注编辑。
+- 右键菜单会在对应操作旁显示当前真实快捷键，包括用户自定义后的快捷键。
+- 补齐备注、批注、重置缩放、子导图和常用复制粘贴操作的默认快捷键。
+
 ## 0.4.1 - 2026-05-08
 
 ### English
