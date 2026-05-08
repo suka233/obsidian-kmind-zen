@@ -1,5 +1,19 @@
 # KMind Zen Obsidian Changelog
 
+## 0.4.1 - 2026-05-08
+
+### English
+
+- Upgrade the shared KMind core to 0.4.0.
+- Improve the large-map editing experience, including smoother viewing, zooming, and rendering in the Obsidian view.
+- Align the Obsidian plugin with the latest web and SiYuan performance improvements.
+
+### 中文
+
+- 将共享 KMind 内核升级到 0.4.0。
+- 优化大图编辑体验，导图较大时浏览、缩放和渲染更顺滑。
+- 与 WebApp、思源插件同步最新性能优化。
+
 ## 0.4.0 - 2026-05-03
 
 ### English

@@ -6,12 +6,11 @@ KMind Zen 是全新的专业导图工具，官网 https://kmind.app
 
 KMind Zen完全从0开始，重新设计了内核，UI，交互等，以期望获得更高的自主性和拓展性，当前KMind Zen提供思源插件，Obsidian插件，网页应用，[KMind Zen OpenClaw Skill](https://clawhub.ai/suka233/kmind-markdown-to-mindmap)(Skill是纯离线且通用的，你可以在任意支持使用Skill的地方调用，可以获得直接从文本转为导图图片的能力)，独立的桌面端也即将到来...
 
-## 0.4.0 更新（2026-05-03）
+## 0.4.1 更新（2026-05-08）
 
-- Project Popover 改为可视化布局和主题卡片，包含明暗主题预览、彩虹连线设置、背景色预设和自定义颜色输入。
-- 根节点“切换主题”Popover 现在会在应用前展示布局、主题和连线路由预览。
-- Obsidian 插件界面补齐了布局、主题和连线路由的中文展示名。
-- KMind Zen 已升级到共享 KMind 内核 0.3.0。
+- KMind Zen 已升级到共享 KMind 内核 0.4.0。
+- 优化大图编辑体验，导图较大时浏览、缩放和渲染更顺滑。
+- 同步 WebApp、思源插件中的最新性能优化。
 
 ## 安装说明
 

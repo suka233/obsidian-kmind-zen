@@ -6,12 +6,11 @@ KMind Zen is a next-generation professional mind mapping tool. Website: https://
 
 KMind Zen was rebuilt from the ground up, with a redesigned core, interface, and interaction model for greater flexibility and long-term extensibility. Today, KMind Zen is available as a SiYuan plugin, an Obsidian plugin, a web app, and an OpenClaw Skill. A standalone desktop app is also on the way.
 
-## What's new in 0.4.0 (2026-05-03)
+## What's new in 0.4.1 (2026-05-08)
 
-- The Project Popover now uses visual layout and theme cards, including light/dark theme previews, rainbow edge settings, and background color presets plus custom color input.
-- The root-node theme switching popover now shows visual layout, theme, and edge route previews before applying changes.
-- Layout, theme, and edge route names are localized in the Obsidian plugin UI.
-- KMind Zen now uses the shared KMind core 0.3.0.
+- KMind Zen now uses the shared KMind core 0.4.0.
+- Large maps are smoother when viewing, zooming, and editing in Obsidian.
+- The Obsidian plugin now includes the latest performance improvements from the web and SiYuan hosts.
 
 ## Installation
 
