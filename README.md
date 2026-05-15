@@ -6,12 +6,13 @@ KMind Zen is a next-generation professional mind mapping tool. Website: https://
 
 KMind Zen was rebuilt from the ground up, with a redesigned core, interface, and interaction model for greater flexibility and long-term extensibility. Today, KMind Zen is available as a SiYuan plugin, an Obsidian plugin, a web app, and an OpenClaw Skill. A standalone desktop app is also on the way.
 
-## What's new in 0.5.0 (2026-05-09)
+## What's new in 0.6.0 (2026-05-15)
 
-- Configure KMind Zen shortcuts from the Obsidian plugin settings.
-- See rich-text editing shortcuts for node text, notes, and comments.
-- See the current shortcut next to supported context-menu actions, including custom bindings.
-- Use more default shortcuts for notes, comments, zoom reset, submaps, and common copy/paste actions.
+- Design and save local KMind Zen themes directly inside the Obsidian plugin.
+- Import and export `.kmind-theme.json` packages for offline theme sharing.
+- Apply local themes from the map theme popover after saving or importing them.
+- Use compact, default, and relaxed project density presets to adjust map spacing quickly.
+- Upgrade the shared KMind core to 0.5.0, improve performance, fix theme spacing isolation, and improve core-layout vertical spacing stability.
 
 ## Installation
 
@@ -38,6 +39,7 @@ If you want to use KMind Zen in Obsidian right now, the recommended approach is 
 - Every KMind Zen host runs on the same core. A single KMind Zen source file can move smoothly between SiYuan, Obsidian, the web app, and the upcoming desktop app. You can also use the KMind Zen Skill with AI tools to turn source material into editable mind maps offline. One practical workflow is converting lecture or meeting recordings into KMind Zen documents that you can refine and archive later.
 - A purpose-built `.kmindz.svg` source format. It contains the full editable source document while still being a valid SVG image, so you can preview the map without opening it first.
 - Smart themes with both light and dark variants across the official theme set, switching automatically with no manual theme toggle required.
+- A local theme designer and theme library, with import/export support for `.kmind-theme.json` sharing packages.
 - Visual project settings for choosing layouts, themes, edge styles, rainbow edges, and background colors with less guesswork.
 - Unlimited summary nesting, so summaries can contain their own summaries at any depth.
 - Flexible cloze support for both nodes and notes, designed for memorization and review.
@@ -66,3 +68,4 @@ If you want to use KMind Zen in Obsidian right now, the recommended approach is 
 ## Limitations
 
 - The current marketplace submission targets desktop only. Mobile is not part of the supported surface for this release.
+- Maps saved with the new project/root spacing settings may not preserve those spacing settings if later opened and saved by an older KMind Zen version.
