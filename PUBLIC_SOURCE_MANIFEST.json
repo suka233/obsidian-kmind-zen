@@ -1,0 +1,9 @@
+{
+  "generatedAt": "2026-05-18T14:59:17.441Z",
+  "sourceCommit": "176436d178880b14b80e78b56bf291d537702927",
+  "sourceCommitShort": "176436d",
+  "pluginVersion": "0.9.0",
+  "minAppVersion": "1.6.0",
+  "proBaseUrl": "https://kmind.app",
+  "privateEngineSourceIncluded": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "kmind-zen",
+  "name": "KMind Zen",
+  "version": "0.9.0",
+  "minAppVersion": "1.6.0",
+  "description": "Professional mind mapping software with one map editable across SiYuan Note, the web app, and other KMind Zen hosts.",
+  "author": "KMind",
+  "authorUrl": "https://kmind.app",
+  "isDesktopOnly": true
+}
