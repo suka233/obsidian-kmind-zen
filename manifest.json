@@ -1,0 +1,10 @@
+{
+  "id": "kmind-zen",
+  "name": "KMind Zen",
+  "version": "0.11.1",
+  "minAppVersion": "1.6.0",
+  "description": "Create and edit local-first .kmindz mind maps directly inside your Obsidian vault, with vault files, autosave, export, themes, and Zen mode.",
+  "author": "KMind",
+  "authorUrl": "https://kmind.app",
+  "isDesktopOnly": true
+}
