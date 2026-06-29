@@ -1,0 +1,10 @@
+{
+  "id": "kmind-zen",
+  "name": "KMind Zen",
+  "version": "0.20.0",
+  "minAppVersion": "1.6.0",
+  "description": "Create and edit local-first .kmindz mindmap files directly inside your vault, with autosave, export, themes, and Zen mode.",
+  "author": "KMind",
+  "authorUrl": "https://kmind.app",
+  "isDesktopOnly": true
+}
